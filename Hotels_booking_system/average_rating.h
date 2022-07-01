@@ -1,0 +1,1 @@
+void average_rating();
